@@ -1,0 +1,2 @@
+1) DENSE RANK()
+2) REGEXP()

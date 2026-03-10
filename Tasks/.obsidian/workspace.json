@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "7036bcc2b87b7f13",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f3de7824130728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a03ec18efdb37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линейная алгебра в сфере анализа данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линейная алгебра в сфере анализа данных"
+            }
+          },
+          {
+            "id": "30ccefb9638fe39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы численных методов. Линейная алгебра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритмы численных методов. Линейная алгебра"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14bebcda44633e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "985c5c23eaef7fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d1631e91dcb33bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "476f1583ceb6b8e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "собственные",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b5982a66bb331563",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "909158c6e4bfd373",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a10548d35078ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8ef4dedb7d8c10e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Книги/Math/Essential math for data science/Основная информация.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Основная информация"
+            }
+          },
+          {
+            "id": "f6631013aef26c23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Книги/Python/Python для сложных задач/IPython. Библиотека Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из IPython. Библиотека Python"
+            }
+          },
+          {
+            "id": "95f252f679b69e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Философия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Философия"
+            }
+          },
+          {
+            "id": "351eb00570384db1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "62db00f5c578cbe6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "6389e5540e2e13b9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "571f227e3c699e61",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "30ccefb9638fe39d",
+  "lastOpenFiles": [
+    "Мысли.md",
+    "Алгоритмы численных методов. Линейная алгебра.md",
+    "Статистика/Теория вероятности/Теория множеств.md",
+    "Статистика/Теория вероятности",
+    "Повторение.md",
+    "Комбинаторика.md",
+    "Attachments/Pasted image 20260301152642.png",
+    "Attachments/Pasted image 20260301152351.png",
+    "Attachments/Pasted image 20260301151752.png",
+    "Attachments/Pasted image 20260301151731.png",
+    "Attachments/Pasted image 20260301151203.png",
+    "Attachments/Pasted image 20260301150120.png",
+    "Attachments/Pasted image 20260301143355.png",
+    "Attachments/Pasted image 20260301143312.png",
+    "Attachments/Pasted image 20260301141959.png",
+    "Attachments/Pasted image 20260301141435.png",
+    "Линейная алгебра в сфере анализа данных.md",
+    "Цифровая кафедра/Лекция 5. Линейные модели.md",
+    "Книги/Math/Essential math for data science/Линейная алгебра.md",
+    "Python/ScikitLearn. Load_Iris. Dataset.md",
+    "Парадокс Монти Холла. Пример визуализации вероятности..md",
+    "На западном фронте без перемен. Эрих Ремарк.md",
+    "Модели нечетких множеств.md",
+    "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
+    "2026-03-05.md",
+    "Без названия.canvas",
+    "Без названия 2.base",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Без названия 3.base",
+    "Без названия 4.base",
+    "HTTP.md",
+    "Корреляция.md",
+    "Цифровая кафедра/Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным.md",
+    "ML/EDA.md",
+    "Когнитивные искажения или почему мы тупеем.md",
+    "Лаплассовский детерминизм.md",
+    "ML/Мультиколлинеарность.md",
+    "Философия.md",
+    "ML/Эвристики качества данных.md",
+    "ML/Baseline.md",
+    "ML/Ансамбли моделей.md",
+    "Независимые повторные испытания. Формула Бернулли.md",
+    "ML",
+    "Matplotlib",
+    "Статистика",
+    "Python"
+  ]
+}
